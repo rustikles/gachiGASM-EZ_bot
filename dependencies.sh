@@ -24,3 +24,6 @@ cd ~/MusicBot
 # Install Python dependencies
 sudo python3 -m pip install -U pip
 sudo python3 -m pip install -U -r requirements.txt
+
+### Dice Bot ###
+https://github.com/Chaithi/Discord-Dice-Roller-Bot.git
